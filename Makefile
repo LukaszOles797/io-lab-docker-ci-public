@@ -16,6 +16,7 @@ SCEHMA_VENDOR = $(PREFIX)
 
 SCHEMA_VSC_URL = https://github.com/$(PREFIX)/$(REPO_NAME)
 
+
 # git commit shirt sha
 SCHEMA_VCS_REF = $(shell git rev-parse --short HEAD)
 
