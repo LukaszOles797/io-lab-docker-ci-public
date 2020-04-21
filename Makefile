@@ -14,6 +14,7 @@ SCHEMA_URL = http://example.com
 # Vendor set to github user name
 SCEHMA_VENDOR = $(PREFIX)
 
+
 SCHEMA_VSC_URL = https://github.com/$(PREFIX)/$(REPO_NAME)
 
 
